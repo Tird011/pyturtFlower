@@ -23,3 +23,9 @@
   <li><a href="https://www.geeksforgeeks.org/python/python-data-structures/">DSA GeekforGeeks</a><em>tbh I still dont know this</em></li> <!-- I still havent studied DSA yet-->
 </ul>
 
+<hr>
+
+<h2>Goals</h2>
+<ul>
+  <li>Fundamentals</li>
+</ul>
