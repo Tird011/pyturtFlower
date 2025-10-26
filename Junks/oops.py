@@ -29,3 +29,4 @@ class main:
 
 println = main("grogru",1) 
 println.user_name()
+println.IWantIce()
